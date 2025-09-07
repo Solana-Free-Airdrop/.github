@@ -58,6 +58,7 @@ To qualify for the Solana Airdrop, participants usually must:
 ---
 
 ## How to Participate
+<img width="678" height="556" alt="image" src="https://github.com/user-attachments/assets/fcf672b6-fcd3-451e-9ccf-7dd81d160a0c" />
 
 The participation process is straightforward:
 
