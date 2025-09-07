@@ -12,7 +12,6 @@ The **Solana Airdrop** is one of the most anticipated events in the crypto commu
 
 [![Claim Access](https://img.shields.io/badge/Claim%20Access-7F3DFF?style=for-the-badge\&logo=solana\&logoColor=white)](#)
 [![Solana Airdrop](https://img.shields.io/badge/Solana-Airdrop-02E4B5?style=for-the-badge\&logo=solana\&logoColor=white)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-Supported-FFC247?style=for-the-badge\&logo=windows\&logoColor=white)](#)
 [![Stars](https://img.shields.io/badge/Stars-12.4k-4169E1?style=for-the-badge\&logo=github\&logoColor=white)](#)
 
 ---
@@ -118,7 +117,6 @@ Joining the **Solana Airdrop** is an easy and rewarding way to get involved in o
 
 [![Claim Access](https://img.shields.io/badge/Claim%20Access-7F3DFF?style=for-the-badge\&logo=solana\&logoColor=white)](#)
 [![Solana Airdrop](https://img.shields.io/badge/Solana-Airdrop-02E4B5?style=for-the-badge\&logo=solana\&logoColor=white)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-Supported-FFC247?style=for-the-badge\&logo=windows\&logoColor=white)](#)
 [![Stars](https://img.shields.io/badge/Stars-12.4k-4169E1?style=for-the-badge\&logo=github\&logoColor=white)](#)
 
 ---
