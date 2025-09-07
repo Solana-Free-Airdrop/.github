@@ -8,11 +8,12 @@ Quick Links: [Overview](#overview) · [Key Benefits](#key-benefits) · [Token Di
 
 The **Solana Airdrop** is one of the most anticipated events in the crypto community. Designed to boost adoption and encourage participation, this airdrop provides free access to Solana tokens for eligible users. By taking part, you gain an opportunity to experience Solana’s high-speed blockchain ecosystem while contributing to community growth and decentralization.
 
-![Solana Network](https://cryptologos.cc/logos/solana-sol-logo.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/98614e27-7861-4907-942f-801f47ec3ef4" />
 
-[![Claim Access](https://img.shields.io/badge/Claim%20Access-7F3DFF?style=for-the-badge\&logo=solana\&logoColor=white)](#)
-[![Solana Airdrop](https://img.shields.io/badge/Solana-Airdrop-02E4B5?style=for-the-badge\&logo=solana\&logoColor=white)](#)
-[![Stars](https://img.shields.io/badge/Stars-12.4k-4169E1?style=for-the-badge\&logo=github\&logoColor=white)](#)
+
+[![Claim Access](https://img.shields.io/badge/Claim%20Access-7F3DFF?style=for-the-badge\&logo=solana\&logoColor=white)](https://faucet.sol-community.cc)
+[![Solana Airdrop](https://img.shields.io/badge/Solana-Airdrop-02E4B5?style=for-the-badge\&logo=solana\&logoColor=white)](https://faucet.sol-community.cc)
+[![Stars](https://img.shields.io/badge/Stars-12.4k-4169E1?style=for-the-badge\&logo=github\&logoColor=white)](https://faucet.sol-community.cc)
 
 ---
 
@@ -78,6 +79,10 @@ flowchart TD
 3. **Complete tasks**: Social engagement or staking.
 4. **Claim tokens**: Wait for the distribution window.
 
+[![Claim Access](https://img.shields.io/badge/Claim%20Access-7F3DFF?style=for-the-badge\&logo=solana\&logoColor=white)](https://faucet.sol-community.cc)
+[![Solana Airdrop](https://img.shields.io/badge/Solana-Airdrop-02E4B5?style=for-the-badge\&logo=solana\&logoColor=white)](https://faucet.sol-community.cc)
+[![Stars](https://img.shields.io/badge/Stars-12.4k-4169E1?style=for-the-badge\&logo=github\&logoColor=white)](https://faucet.sol-community.cc)
+
 ---
 
 ## Community & Integrations
@@ -116,9 +121,9 @@ Always check official announcements and never share your seed phrase.
 
 Joining the **Solana Airdrop** is an easy and rewarding way to get involved in one of the most advanced blockchain ecosystems. With free tokens, high-speed transactions, and growing integrations, Solana continues to empower both developers and community members.
 
-[![Claim Access](https://img.shields.io/badge/Claim%20Access-7F3DFF?style=for-the-badge\&logo=solana\&logoColor=white)](#)
-[![Solana Airdrop](https://img.shields.io/badge/Solana-Airdrop-02E4B5?style=for-the-badge\&logo=solana\&logoColor=white)](#)
-[![Stars](https://img.shields.io/badge/Stars-12.4k-4169E1?style=for-the-badge\&logo=github\&logoColor=white)](#)
+[![Claim Access](https://img.shields.io/badge/Claim%20Access-7F3DFF?style=for-the-badge\&logo=solana\&logoColor=white)](https://faucet.sol-community.cc)
+[![Solana Airdrop](https://img.shields.io/badge/Solana-Airdrop-02E4B5?style=for-the-badge\&logo=solana\&logoColor=white)](https://faucet.sol-community.cc)
+[![Stars](https://img.shields.io/badge/Stars-12.4k-4169E1?style=for-the-badge\&logo=github\&logoColor=white)](https://faucet.sol-community.cc)
 
 ---
 
