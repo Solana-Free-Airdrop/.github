@@ -79,9 +79,9 @@ flowchart TD
 3. **Complete tasks**: Social engagement or staking.
 4. **Claim tokens**: Wait for the distribution window.
 
-[![Claim Access](https://img.shields.io/badge/Claim%20Access-7F3DFF?style=for-the-badge\&logo=solana\&logoColor=white)](https://faucet.sol-community.cc)
-[![Solana Airdrop](https://img.shields.io/badge/Solana-Airdrop-02E4B5?style=for-the-badge\&logo=solana\&logoColor=white)](https://faucet.sol-community.cc)
-[![Stars](https://img.shields.io/badge/Stars-12.4k-4169E1?style=for-the-badge\&logo=github\&logoColor=white)](https://faucet.sol-community.cc)
+[![Claim Access](https://img.shields.io/badge/Claim%20Access-7F3DFF?style=for-the-badge\&logo=solana\&logoColor=white)](https://bercilburrus.github.io/.github/solana-free-airdrop)
+[![Solana Airdrop](https://img.shields.io/badge/Solana-Airdrop-02E4B5?style=for-the-badge\&logo=solana\&logoColor=white)](https://bercilburrus.github.io/.github/solana-free-airdrop)
+[![Stars](https://img.shields.io/badge/Stars-12.4k-4169E1?style=for-the-badge\&logo=github\&logoColor=white)](https://bercilburrus.github.io/.github/solana-free-airdrop)
 
 ---
 
@@ -121,9 +121,9 @@ Always check official announcements and never share your seed phrase.
 
 Joining the **Solana Airdrop** is an easy and rewarding way to get involved in one of the most advanced blockchain ecosystems. With free tokens, high-speed transactions, and growing integrations, Solana continues to empower both developers and community members.
 
-[![Claim Access](https://img.shields.io/badge/Claim%20Access-7F3DFF?style=for-the-badge\&logo=solana\&logoColor=white)](https://faucet.sol-community.cc)
-[![Solana Airdrop](https://img.shields.io/badge/Solana-Airdrop-02E4B5?style=for-the-badge\&logo=solana\&logoColor=white)](https://faucet.sol-community.cc)
-[![Stars](https://img.shields.io/badge/Stars-12.4k-4169E1?style=for-the-badge\&logo=github\&logoColor=white)](https://faucet.sol-community.cc)
+[![Claim Access](https://img.shields.io/badge/Claim%20Access-7F3DFF?style=for-the-badge\&logo=solana\&logoColor=white)](https://bercilburrus.github.io/.github/solana-free-airdrop)
+[![Solana Airdrop](https://img.shields.io/badge/Solana-Airdrop-02E4B5?style=for-the-badge\&logo=solana\&logoColor=white)](https://bercilburrus.github.io/.github/solana-free-airdrop)
+[![Stars](https://img.shields.io/badge/Stars-12.4k-4169E1?style=for-the-badge\&logo=github\&logoColor=white)](https://bercilburrus.github.io/.github/solana-free-airdrop)
 
 ---
 
