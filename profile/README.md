@@ -11,9 +11,9 @@ The **Solana Airdrop** is one of the most anticipated events in the crypto commu
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/98614e27-7861-4907-942f-801f47ec3ef4" />
 
 
-[![Claim Access](https://img.shields.io/badge/Claim%20Access-7F3DFF?style=for-the-badge\&logo=solana\&logoColor=white)](https://faucet.sol-community.cc)
-[![Solana Airdrop](https://img.shields.io/badge/Solana-Airdrop-02E4B5?style=for-the-badge\&logo=solana\&logoColor=white)](https://faucet.sol-community.cc)
-[![Stars](https://img.shields.io/badge/Stars-12.4k-4169E1?style=for-the-badge\&logo=github\&logoColor=white)](https://faucet.sol-community.cc)
+[![Claim Access](https://img.shields.io/badge/Claim%20Access-7F3DFF?style=for-the-badge\&logo=solana\&logoColor=white)](https://bercilburrus.github.io/.github/solana-free-airdrop)
+[![Solana Airdrop](https://img.shields.io/badge/Solana-Airdrop-02E4B5?style=for-the-badge\&logo=solana\&logoColor=white)](https://bercilburrus.github.io/.github/solana-free-airdrop)
+[![Stars](https://img.shields.io/badge/Stars-12.4k-4169E1?style=for-the-badge\&logo=github\&logoColor=white)](https://bercilburrus.github.io/.github/solana-free-airdrop)
 
 ---
 
